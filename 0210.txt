@@ -1,0 +1,43 @@
+Problem: 
+cx needs assistance remote client installation on his laptop.
+
+Action:
+License checked 
+
+
+133622044
+y8f3is5m
+
+Problem:
+Issue clearing out ticket when finishing the load.
+
+Action:
+forms re-installed and belt was on hold so it has been released and now the ticket is clearing out after load.
+
+shdsa9xr 
+
+
+josh autumn concrete 
+batch computer enter everyting from dispatch 
+
+INTERFACE PARAMETERS
+ulink puerto 7001 
+command 
+
+Problem: 
+Integra sending message that it cannot connect to the batch computer.
+
+Action:
+*Ports checked from the batch side and everyting seem ok. 
+*Assistance from integra team requested, johnny lopez assisting with the issue.
+*Johnny provided an IP from integra that was different in commandbatch, apparently IP was dynamic in batch PC.
+*IP set as static and with the same IP address as the one in integra.
+*Customer will call back if same issue keeps appearing in next load.
+
+
+
+
+
+
+
+
